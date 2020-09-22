@@ -35,7 +35,7 @@
 <p align="center"><sup><strong>Making Arma 3 a better place for all members of the 2nd Battalion, Nord Brigade.</strong></sup></p>
 
 ## Dependencies
-There aren't any dependencies, but the music and sounds are meant to be played through [KLPQ Music Player](), making it a recommended mod.
+There aren't any dependencies, but the music and sounds are meant to be played through [KLPQ Music Player](https://steamcommunity.com/sharedfiles/filedetails/?id=1241545493), making it a recommended mod.
 
 # For Developers of this mod
 ## Install
