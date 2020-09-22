@@ -1,8 +1,8 @@
 <p align="center">
 <img src="https://github.com/2bnb/2bnb-music/blob/master/2BNB_Music_Github.png"
      alt="2BNB Banner" /><br />
-  <a href="https://github.com/2bnb/2bnb-music/wiki">
-    <img src="https://img.shields.io/badge/2BNB%20Extras-Wiki-orange.svg?style=for-the-badge&logo=github"
+  <a href="https://github.com/2bnb/2bnb-extras/wiki/Adding-New-Music">
+    <img src="https://img.shields.io/badge/2BNB_Extras_Wiki-How to Add Music-orange.svg?style=for-the-badge&logo=github"
          alt="Wiki" />
   </a>
   <a href="https://discord.gg/DRaWNyf">
@@ -35,24 +35,7 @@
 <p align="center"><sup><strong>Making Arma 3 a better place for all members of the 2nd Battalion, Nord Brigade.</strong></sup></p>
 
 ## Dependencies
-- [CBA A3](https://steamcommunity.com/sharedfiles/filedetails/?id=450814997)
-- [ACE3](https://steamcommunity.com/sharedfiles/filedetails/?id=463939057)
-- [Achilles](https://steamcommunity.com/sharedfiles/filedetails/?id=723217262)
-- [TFAR 1.0 (BETA)](https://steamcommunity.com/sharedfiles/filedetails/?id=894678801)
-- [RHS AFRF](https://steamcommunity.com/sharedfiles/filedetails/?id=843425103)
-- [RHS USAF](https://steamcommunity.com/sharedfiles/filedetails/?id=843577117)
-- [RHS GREF](https://steamcommunity.com/sharedfiles/filedetails/?id=843593391)
-- [Project OPFOR](https://steamcommunity.com/sharedfiles/filedetails/?id=735566597)
-- [GRAD Sling Helmet](https://steamcommunity.com/sharedfiles/filedetails/?id=1354112941)
-- [TMT - Turkish Forces](https://steamcommunity.com/sharedfiles/filedetails/?id=740727824)
-- [[FOX] Suicide Bomber](https://steamcommunity.com/sharedfiles/filedetails/?id=1373303221)
-- [CUP Terrains - Maps](https://steamcommunity.com/sharedfiles/filedetails/?id=583544987)
-- [MLO - All-in-one Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=823636749)
-
-# Credits
-- GRAD developer, for their [gruppe_adler_mod](https://github.com/gruppe-adler/gruppe_adler_mod) and allowing us to use parts of it for the basis of some of our addons
-- Tittoffer and Martin M. from Norwegian Task Force for access to their assets made available to us with permission from the [NorwegianTaskForce Github](https://github.com/Tittoffer/NorwegianTaskForce/), which we then modified and built upon to make them our own
-
+There aren't any dependencies, but the music and sounds are meant to be played through [KLPQ Music Player](), making it a recommended mod.
 
 # For Developers of this mod
 ## Install
