@@ -641,24 +641,24 @@ class CfgMusic {
 		artist = "The Doors";
 		klpq_ignoreTrack = 0;
 	};
-	class bnb_m_song_sympathy_for_the_devil {
-		sound[] = {"x\bnb_m\songs\vietnam\Sympathy_For_The_Devil_-_The_Rolling_Stones.ogg", db+3, 1};
-		tag = "klpq_musicRadio_v1";
-		theme = "vietnam";
-		duration = 382;
-		title = "Sympathy for the Devil";
-		artist = "The Rolling Stones";
-		klpq_ignoreTrack = 0;
-	};
-	class bnb_m_song_the_house_of_the_rising_sun {
-		sound[] = {"x\bnb_m\songs\vietnam\The_House_of_the_Rising_Sun_-_The_Animals.ogg", db+3, 1};
-		tag = "klpq_musicRadio_v1";
-		theme = "vietnam";
-		duration = 259;
-		title = "The House of the Rising Sun";
-		artist = "The Animals";
-		klpq_ignoreTrack = 0;
-	};
+	// class bnb_m_song_sympathy_for_the_devil {
+	// 	sound[] = {"x\bnb_m\songs\vietnam\Sympathy_For_The_Devil_-_The_Rolling_Stones.ogg", db+3, 1};
+	// 	tag = "klpq_musicRadio_v1";
+	// 	theme = "vietnam";
+	// 	duration = 382;
+	// 	title = "Sympathy for the Devil";
+	// 	artist = "The Rolling Stones";
+	// 	klpq_ignoreTrack = 0;
+	// };
+	// class bnb_m_song_the_house_of_the_rising_sun {
+	// 	sound[] = {"x\bnb_m\songs\vietnam\The_House_of_the_Rising_Sun_-_The_Animals.ogg", db+3, 1};
+	// 	tag = "klpq_musicRadio_v1";
+	// 	theme = "vietnam";
+	// 	duration = 259;
+	// 	title = "The House of the Rising Sun";
+	// 	artist = "The Animals";
+	// 	klpq_ignoreTrack = 0;
+	// };
 };
 
 class CfgSounds {
@@ -2568,60 +2568,60 @@ class CfgSounds {
 		sound[] = {"x\bnb_m\songs\vietnam\Riders_On_The_Storm_-_The_Doors.ogg", db+12, 1, 500};
 		titles[] = {};
 	};
-	class bnb_m_song_sympathy_for_the_devil {
-		sound[] = {"x\bnb_m\songs\vietnam\Sympathy_For_The_Devil_-_The_Rolling_Stones.ogg", db+6, 1, 100};
-		titles[] = {};
-	};
-	class bnb_m_song_sympathy_for_the_devil_vol0 {
-		sound[] = {"x\bnb_m\songs\vietnam\Sympathy_For_The_Devil_-_The_Rolling_Stones.ogg", db+0, 1, 100};
-		titles[] = {};
-	};
-	class bnb_m_song_sympathy_for_the_devil_vol1 {
-		sound[] = {"x\bnb_m\songs\vietnam\Sympathy_For_The_Devil_-_The_Rolling_Stones.ogg", db+3, 1, 100};
-		titles[] = {};
-	};
-	class bnb_m_song_sympathy_for_the_devil_vol2 {
-		sound[] = {"x\bnb_m\songs\vietnam\Sympathy_For_The_Devil_-_The_Rolling_Stones.ogg", db+6, 1, 100};
-		titles[] = {};
-	};
-	class bnb_m_song_sympathy_for_the_devil_loud_vol0 {
-		sound[] = {"x\bnb_m\songs\vietnam\Sympathy_For_The_Devil_-_The_Rolling_Stones.ogg", db+0, 1, 500};
-		titles[] = {};
-	};
-	class bnb_m_song_sympathy_for_the_devil_loud_vol1 {
-		sound[] = {"x\bnb_m\songs\vietnam\Sympathy_For_The_Devil_-_The_Rolling_Stones.ogg", db+6, 1, 500};
-		titles[] = {};
-	};
-	class bnb_m_song_sympathy_for_the_devil_loud_vol2 {
-		sound[] = {"x\bnb_m\songs\vietnam\Sympathy_For_The_Devil_-_The_Rolling_Stones.ogg", db+12, 1, 500};
-		titles[] = {};
-	};
-	class bnb_m_song_the_house_of_the_rising_sun {
-		sound[] = {"x\bnb_m\songs\vietnam\The_House_of_the_Rising_Sun_-_The_Animals.ogg", db+6, 1, 100};
-		titles[] = {};
-	};
-	class bnb_m_song_the_house_of_the_rising_sun_vol0 {
-		sound[] = {"x\bnb_m\songs\vietnam\The_House_of_the_Rising_Sun_-_The_Animals.ogg", db+0, 1, 100};
-		titles[] = {};
-	};
-	class bnb_m_song_the_house_of_the_rising_sun_vol1 {
-		sound[] = {"x\bnb_m\songs\vietnam\The_House_of_the_Rising_Sun_-_The_Animals.ogg", db+3, 1, 100};
-		titles[] = {};
-	};
-	class bnb_m_song_the_house_of_the_rising_sun_vol2 {
-		sound[] = {"x\bnb_m\songs\vietnam\The_House_of_the_Rising_Sun_-_The_Animals.ogg", db+6, 1, 100};
-		titles[] = {};
-	};
-	class bnb_m_song_the_house_of_the_rising_sun_loud_vol0 {
-		sound[] = {"x\bnb_m\songs\vietnam\The_House_of_the_Rising_Sun_-_The_Animals.ogg", db+0, 1, 500};
-		titles[] = {};
-	};
-	class bnb_m_song_the_house_of_the_rising_sun_loud_vol1 {
-		sound[] = {"x\bnb_m\songs\vietnam\The_House_of_the_Rising_Sun_-_The_Animals.ogg", db+6, 1, 500};
-		titles[] = {};
-	};
-	class bnb_m_song_the_house_of_the_rising_sun_loud_vol2 {
-		sound[] = {"x\bnb_m\songs\vietnam\The_House_of_the_Rising_Sun_-_The_Animals.ogg", db+12, 1, 500};
-		titles[] = {};
-	};
+	// class bnb_m_song_sympathy_for_the_devil {
+	// 	sound[] = {"x\bnb_m\songs\vietnam\Sympathy_For_The_Devil_-_The_Rolling_Stones.ogg", db+6, 1, 100};
+	// 	titles[] = {};
+	// };
+	// class bnb_m_song_sympathy_for_the_devil_vol0 {
+	// 	sound[] = {"x\bnb_m\songs\vietnam\Sympathy_For_The_Devil_-_The_Rolling_Stones.ogg", db+0, 1, 100};
+	// 	titles[] = {};
+	// };
+	// class bnb_m_song_sympathy_for_the_devil_vol1 {
+	// 	sound[] = {"x\bnb_m\songs\vietnam\Sympathy_For_The_Devil_-_The_Rolling_Stones.ogg", db+3, 1, 100};
+	// 	titles[] = {};
+	// };
+	// class bnb_m_song_sympathy_for_the_devil_vol2 {
+	// 	sound[] = {"x\bnb_m\songs\vietnam\Sympathy_For_The_Devil_-_The_Rolling_Stones.ogg", db+6, 1, 100};
+	// 	titles[] = {};
+	// };
+	// class bnb_m_song_sympathy_for_the_devil_loud_vol0 {
+	// 	sound[] = {"x\bnb_m\songs\vietnam\Sympathy_For_The_Devil_-_The_Rolling_Stones.ogg", db+0, 1, 500};
+	// 	titles[] = {};
+	// };
+	// class bnb_m_song_sympathy_for_the_devil_loud_vol1 {
+	// 	sound[] = {"x\bnb_m\songs\vietnam\Sympathy_For_The_Devil_-_The_Rolling_Stones.ogg", db+6, 1, 500};
+	// 	titles[] = {};
+	// };
+	// class bnb_m_song_sympathy_for_the_devil_loud_vol2 {
+	// 	sound[] = {"x\bnb_m\songs\vietnam\Sympathy_For_The_Devil_-_The_Rolling_Stones.ogg", db+12, 1, 500};
+	// 	titles[] = {};
+	// };
+	// class bnb_m_song_the_house_of_the_rising_sun {
+	// 	sound[] = {"x\bnb_m\songs\vietnam\The_House_of_the_Rising_Sun_-_The_Animals.ogg", db+6, 1, 100};
+	// 	titles[] = {};
+	// };
+	// class bnb_m_song_the_house_of_the_rising_sun_vol0 {
+	// 	sound[] = {"x\bnb_m\songs\vietnam\The_House_of_the_Rising_Sun_-_The_Animals.ogg", db+0, 1, 100};
+	// 	titles[] = {};
+	// };
+	// class bnb_m_song_the_house_of_the_rising_sun_vol1 {
+	// 	sound[] = {"x\bnb_m\songs\vietnam\The_House_of_the_Rising_Sun_-_The_Animals.ogg", db+3, 1, 100};
+	// 	titles[] = {};
+	// };
+	// class bnb_m_song_the_house_of_the_rising_sun_vol2 {
+	// 	sound[] = {"x\bnb_m\songs\vietnam\The_House_of_the_Rising_Sun_-_The_Animals.ogg", db+6, 1, 100};
+	// 	titles[] = {};
+	// };
+	// class bnb_m_song_the_house_of_the_rising_sun_loud_vol0 {
+	// 	sound[] = {"x\bnb_m\songs\vietnam\The_House_of_the_Rising_Sun_-_The_Animals.ogg", db+0, 1, 500};
+	// 	titles[] = {};
+	// };
+	// class bnb_m_song_the_house_of_the_rising_sun_loud_vol1 {
+	// 	sound[] = {"x\bnb_m\songs\vietnam\The_House_of_the_Rising_Sun_-_The_Animals.ogg", db+6, 1, 500};
+	// 	titles[] = {};
+	// };
+	// class bnb_m_song_the_house_of_the_rising_sun_loud_vol2 {
+	// 	sound[] = {"x\bnb_m\songs\vietnam\The_House_of_the_Rising_Sun_-_The_Animals.ogg", db+12, 1, 500};
+	// 	titles[] = {};
+	// };
 };
