@@ -2593,3 +2593,47 @@ class CfgSounds {
 		titles[] = {};
 	};
 };
+
+// Tigerblood Jewel
+class CfgMusic {
+	class bnb_m_song_tigerblood_jewel {
+		sound[] = {"x\bnb_m\songs\other\Tigerblood_Jewel_-_Virginia_Highway.ogg", db+3, 1};
+		tag = "klpq_musicRadio_v1";
+		theme = "other";
+		duration = 429;
+		title = "Tigerblood Jewel";
+		artist = "Virginia Highway";
+		klpq_ignoreTrack = 0;
+	};
+};
+
+class CfgSounds {
+	class bnb_m_song_tigerblood_jewel {
+		sound[] = {"x\bnb_m\songs\others\Tigerblood_Jewel_-_Virginia_Highway.ogg", db+6, 1, 100};
+		titles[] = {};
+	};
+	class bnb_m_song_tigerblood_jewel_vol0 {
+		sound[] = {"x\bnb_m\songs\others\Tigerblood_Jewel_-_Virginia_Highway.ogg", db+0, 1, 100};
+		titles[] = {};
+	};
+	class bnb_m_song_tigerblood_jewel_vol1 {
+		sound[] = {"x\bnb_m\songs\others\Tigerblood_Jewel_-_Virginia_Highway.ogg", db+3, 1, 100};
+		titles[] = {};
+	};
+	class bnb_m_song_tigerblood_jewel_vol2 {
+		sound[] = {"x\bnb_m\songs\others\Tigerblood_Jewel_-_Virginia_Highway.ogg", db+6, 1, 100};
+		titles[] = {};
+	};
+	class bnb_m_song_tigerblood_jewel_loud_vol0 {
+		sound[] = {"x\bnb_m\songs\others\Tigerblood_Jewel_-_Virginia_Highway.ogg", db+0, 1, 500};
+		titles[] = {};
+	};
+	class bnb_m_song_tigerblood_jewel_loud_vol1 {
+		sound[] = {"x\bnb_m\songs\others\Tigerblood_Jewel_-_Virginia_Highway.ogg", db+6, 1, 500};
+		titles[] = {};
+	};
+	class bnb_m_song_tigerblood_jewel_loud_vol2 {
+		sound[] = {"x\bnb_m\songs\others\Tigerblood_Jewel_-_Virginia_Highway.ogg", db+12, 1, 500};
+		titles[] = {};
+	};
+};
