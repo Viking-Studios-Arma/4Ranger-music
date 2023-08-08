@@ -570,50 +570,6 @@ class CfgSounds {
 	};
 };
 
-// Community Intro
-class CfgMusic {
-	class bnb_m_song_community_intro {
-		sound[] = {"x\bnb_m\songs\other\Community_Intro_-_Pornhub.ogg", db+3, 1};
-		tag = "klpq_musicRadio_v1";
-		theme = "other";
-		duration = 3;
-		title = "Community Intro";
-		artist = "P***hub";
-		klpq_ignoreTrack = 0;
-	};
-};
-
-class CfgSounds {
-	class bnb_m_song_community_intro{
-		sound[] = {"x\bnb_m\songs\other\Community_Intro_-_Pornhub.ogg", db+6, 1, 100};
-		titles[] = {};
-	};
-	class bnb_m_song_community_intro_vol0 {
-		sound[] = {"x\bnb_m\songs\other\Community_Intro_-_Pornhub.ogg", db+0, 1, 100};
-		titles[] = {};
-	};
-	class bnb_m_song_community_intro_vol1 {
-		sound[] = {"x\bnb_m\songs\other\Community_Intro_-_Pornhub.ogg", db+3, 1, 100};
-		titles[] = {};
-	};
-	class bnb_m_song_community_intro_vol2 {
-		sound[] = {"x\bnb_m\songs\other\Community_Intro_-_Pornhub.ogg", db+6, 1, 100};
-		titles[] = {};
-	};
-	class bnb_m_song_community_intro_loud_vol0 {
-		sound[] = {"x\bnb_m\songs\other\Community_Intro_-_Pornhub.ogg", db+0, 1, 500};
-		titles[] = {};
-	};
-	class bnb_m_song_community_intro_loud_vol1 {
-		sound[] = {"x\bnb_m\songs\other\Community_Intro_-_Pornhub.ogg", db+6, 1, 500};
-		titles[] = {};
-	};
-	class bnb_m_song_community_intro_loud_vol2 {
-		sound[] = {"x\bnb_m\songs\other\Community_Intro_-_Pornhub.ogg", db+12, 1, 500};
-		titles[] = {};
-	};
-};
-
 // Crab Rave
 class CfgMusic {
 	class bnb_m_song_crab_cave {
@@ -1406,50 +1362,6 @@ class CfgSounds {
 	};
 };
 
-// National Anthem of USSR
-class CfgMusic {
-	class bnb_m_song_national_anthem_of_ussr {
-		sound[] = {"x\bnb_m\songs\other\National_Anthem_of_USSR_-_The_Red_Army_Choir.ogg", db+3, 1};
-		tag = "klpq_musicRadio_v1";
-		theme = "other";
-		duration = 244;
-		title = "National Anthem of USSR (Elkki's favorite)";
-		artist = "The Red Army Choir";
-		klpq_ignoreTrack = 0;
-	};
-};
-
-class CfgSounds {
-	class bnb_m_song_national_anthem_of_ussr {
-		sound[] = {"x\bnb_m\songs\other\National_Anthem_of_USSR_-_The_Red_Army_Choir.ogg", db+6, 1, 100};
-		titles[] = {};
-	};
-	class bnb_m_song_national_anthem_of_ussr_vol0 {
-		sound[] = {"x\bnb_m\songs\other\National_Anthem_of_USSR_-_The_Red_Army_Choir", db+0, 1, 100};
-		titles[] = {};
-	};
-	class bnb_m_song_national_anthem_of_ussr_vol1 {
-		sound[] = {"x\bnb_m\songs\other\National_Anthem_of_USSR_-_The_Red_Army_Choir.ogg", db+3, 1, 100};
-		titles[] = {};
-	};
-	class bnb_m_song_national_anthem_of_ussr_vol2 {
-		sound[] = {"x\bnb_m\songs\other\National_Anthem_of_USSR_-_The_Red_Army_Choir.ogg", db+6, 1, 100};
-		titles[] = {};
-	};
-	class bnb_m_song_national_anthem_of_ussr_loud_vol0 {
-		sound[] = {"x\bnb_m\songs\other\National_Anthem_of_USSR_-_The_Red_Army_Choir.ogg", db+0, 1, 500};
-		titles[] = {};
-	};
-	class bnb_m_song_national_anthem_of_ussr_loud_vol1 {
-		sound[] = {"x\bnb_m\songs\other\National_Anthem_of_USSR_-_The_Red_Army_Choir.ogg", db+6, 1, 500};
-		titles[] = {};
-	};
-	class bnb_m_song_national_anthem_of_ussr_loud_vol2 {
-		sound[] = {"x\bnb_m\songs\other\National_Anthem_of_USSR_-_The_Red_Army_Choir.ogg", db+12, 1, 500};
-		titles[] = {};
-	};
-};
-
 // Paranoid
 class CfgMusic {
 	class bnb_m_song_paranoid {
@@ -1626,6 +1538,50 @@ class CfgSounds {
 	};
 };
 
+// Right Here, Right Now
+class CfgMusic {
+	class bnb_m_song_righthere_rightnow {
+		sound[] = {"x\bnb_m\songs\other\Right_Here_Right_Now_-_Pete_Tong.ogg", db+3, 1};
+		tag = "klpq_musicRadio_v1";
+		theme = "other";
+		duration = 247;
+		title = "Right Here, Right Now";
+		artist = "Pete Tong";
+		klpq_ignoreTrack = 0;
+	};
+};
+
+class CfgSounds {
+	class bnb_m_song_righthere_rightnow {
+		sound[] = {"x\bnb_m\songs\other\Right_Here_Right_Now_-_Pete_Tong.ogg", db+6, 1, 100};
+		titles[] = {};
+	};
+	class bnb_m_song_righthere_rightnow_vol0 {
+		sound[] = {"x\bnb_m\songs\other\Right_Here_Right_Now_-_Pete_Tong.ogg", db+0, 1, 100};
+		titles[] = {};
+	};
+	class bnb_m_song_righthere_rightnow_vol1 {
+		sound[] = {"x\bnb_m\songs\other\Right_Here_Right_Now_-_Pete_Tong.ogg", db+3, 1, 100};
+		titles[] = {};
+	};
+	class bnb_m_song_righthere_rightnow_vol2 {
+		sound[] = {"x\bnb_m\songs\other\Right_Here_Right_Now_-_Pete_Tong.ogg", db+6, 1, 100};
+		titles[] = {};
+	};
+	class bnb_m_song_righthere_rightnow_loud_vol0 {
+		sound[] = {"x\bnb_m\songs\other\Right_Here_Right_Now_-_Pete_Tong.ogg", db+0, 1, 500};
+		titles[] = {};
+	};
+	class bnb_m_song_righthere_rightnow_loud_vol1 {
+		sound[] = {"x\bnb_m\songs\other\Right_Here_Right_Now_-_Pete_Tong.ogg", db+6, 1, 500};
+		titles[] = {};
+	};
+	class bnb_m_song_righthere_rightnow_vol2 {
+		sound[] = {"x\bnb_m\songs\other\Right_Here_Right_Now_-_Pete_Tong.ogg", db+12, 1, 500};
+		titles[] = {};
+	};
+};
+
 // Rock'n'Roll Train
 class CfgMusic {
 	class bnb_m_song_rock_n_roll_train {
@@ -1758,6 +1714,50 @@ class CfgSounds {
 	};
 };
 
+// Snake Eater - MGS3
+class CfgMusic {
+	class bnb_m_song_snake_eater {
+		sound[] = {"x\bnb_m\songs\other\Snake_Eater_-_MGS3.ogg", db+3, 1};
+		tag = "klpq_musicRadio_v1";
+		theme = "other";
+		duration = 175;
+		title = "Snake Eater";
+		artist = "Metal Gear Solid 3";
+		klpq_ignoreTrack = 0;
+	};
+};
+
+class CfgSounds {
+	class bnb_m_song_snake_eater {
+		sound[] = {"x\bnb_m\songs\other\Snake_Eater_-_MGS3.ogg", db+6, 1, 100};
+		titles[] = {};
+	};
+	class bnb_m_song_snake_eater_vol0 {
+		sound[] = {"x\bnb_m\songs\other\Snake_Eater_-_MGS3.ogg", db+0, 1, 100};
+		titles[] = {};
+	};
+	class bnb_m_song_snake_eater_vol1 {
+		sound[] = {"x\bnb_m\songs\other\Snake_Eater_-_MGS3.ogg", db+3, 1, 100};
+		titles[] = {};
+	};
+	class bnb_m_song_snake_eater_vol2 {
+		sound[] = {"x\bnb_m\songs\other\Snake_Eater_-_MGS3.ogg", db+6, 1, 100};
+		titles[] = {};
+	};
+	class bnb_m_song_snake_eater_loud_vol0 {
+		sound[] = {"x\bnb_m\songs\other\Snake_Eater_-_MGS3.ogg", db+0, 1, 500};
+		titles[] = {};
+	};
+	class bnb_m_song_snake_eater_vol1 {
+		sound[] = {"x\bnb_m\songs\other\Snake_Eater_-_MGS3.ogg", db+6, 1, 500};
+		titles[] = {};
+	};
+	class bnb_m_song_snake_eater_vol2 {
+		sound[] = {"x\bnb_m\songs\other\Snake_Eater_-_MGS3.ogg", db+12, 1, 500};
+		titles[] = {};
+	};
+};
+
 // Speedy Speed Boy
 class CfgMusic {
 	class bnb_m_song_speedy_speed_boy {
@@ -1798,50 +1798,6 @@ class CfgSounds {
 	};
 	class bnb_m_song_speedy_speed_boy_loud_vol2 {
 		sound[] = {"x\bnb_m\songs\other\Speedy_Speed_Boy_-_Initial_D.ogg", db+12, 1, 500};
-		titles[] = {};
-	};
-};
-
-// Swallowing Dust
-class CfgMusic {
-	class bnb_m_song_swallowing_dust {
-		sound[] = {"x\bnb_m\songs\other\Swallowing_Dust.ogg", db+3, 1};
-		tag = "klpq_musicRadio_v1";
-		theme = "other";
-		duration = 332;
-		title = "Swallowing Dust";
-		artist = "";
-		klpq_ignoreTrack = 0;
-	};
-};
-
-class CfgSounds {
-	class bnb_m_song_swallowing_dust {
-		sound[] = {"x\bnb_m\songs\other\Swallowing_Dust.ogg", db+6, 1, 100};
-		titles[] = {};
-	};
-	class bnb_m_song_swallowing_dust_vol0 {
-		sound[] = {"x\bnb_m\songs\other\Swallowing_Dust.ogg", db+0, 1, 100};
-		titles[] = {};
-	};
-	class bnb_m_song_swallowing_dust_vol1 {
-		sound[] = {"x\bnb_m\songs\other\Swallowing_Dust.ogg", db+3, 1, 100};
-		titles[] = {};
-	};
-	class bnb_m_song_swallowing_dust_vol2 {
-		sound[] = {"x\bnb_m\songs\other\Swallowing_Dust.ogg", db+6, 1, 100};
-		titles[] = {};
-	};
-	class bnb_m_song_swallowing_dust_loud_vol0 {
-		sound[] = {"x\bnb_m\songs\other\Swallowing_Dust.ogg", db+0, 1, 500};
-		titles[] = {};
-	};
-	class bnb_m_song_swallowing_dust_loud_vol1 {
-		sound[] = {"x\bnb_m\songs\other\Swallowing_Dust.ogg", db+6, 1, 500};
-		titles[] = {};
-	};
-	class bnb_m_song_swallowing_dust_loud_vol2 {
-		sound[] = {"x\bnb_m\songs\other\Swallowing_Dust.ogg", db+12, 1, 500};
 		titles[] = {};
 	};
 };
@@ -1891,48 +1847,48 @@ class CfgSounds {
 };
 
 // Take Me Home Country Roads 2BNB Version
-class CfgMusic {
-	class bnb_m_song_take_me_home_country_roads_2bnb {
-		sound[] = {"x\bnb_m\songs\other\Take_Me_Home_Country_Roads_-_2BNB.ogg", db+3, 1};
-		tag = "klpq_musicRadio_v1";
-		theme = "other";
-		duration = 61;
-		title = "Take me Home, Country Roads";
-		artist = "2BNB";
-		klpq_ignoreTrack = 0;
-	};
-};
+//class CfgMusic {
+//	class bnb_m_song_take_me_home_country_roads_2bnb {
+//		sound[] = {"x\bnb_m\songs\other\Take_Me_Home_Country_Roads_-_2BNB.ogg", db+3, 1};
+//		tag = "klpq_musicRadio_v1";
+//		theme = "other";
+//		duration = 61;
+//		title = "Take me Home, Country Roads";
+//		artist = "2BNB";
+//		klpq_ignoreTrack = 0;
+//	};
+//};
 
-class CfgSounds {
-	class bnb_m_song_take_me_home_country_roads_2bnb {
-		sound[] = {"x\bnb_m\songs\other\Take_Me_Home_Country_Roads_-_2BNB.ogg", db+6, 1, 100};
-		titles[] = {};
-	};
-	class bnb_m_song_take_me_home_country_roads_2bnb_vol0 {
-		sound[] = {"x\bnb_m\songs\other\Take_Me_Home_Country_Roads_-_2BNB.ogg", db+0, 1, 100};
-		titles[] = {};
-	};
-	class bnb_m_song_take_me_home_country_roads_2bnb_vol1 {
-		sound[] = {"x\bnb_m\songs\other\Take_Me_Home_Country_Roads_-_2BNB.ogg", db+3, 1, 100};
-		titles[] = {};
-	};
-	class bnb_m_song_take_me_home_country_roads_2bnb_vol2 {
-		sound[] = {"x\bnb_m\songs\other\Take_Me_Home_Country_Roads_-_2BNB.ogg", db+6, 1, 100};
-		titles[] = {};
-	};
-	class bnb_m_song_take_me_home_country_roads_2bnb_loud_vol0 {
-		sound[] = {"x\bnb_m\songs\other\Take_Me_Home_Country_Roads_-_2BNB.ogg", db+0, 1, 500};
-		titles[] = {};
-	};
-	class bnb_m_song_take_me_home_country_roads_2bnb_loud_vol1 {
-		sound[] = {"x\bnb_m\songs\other\Take_Me_Home_Country_Roads_-_2BNB.ogg", db+6, 1, 500};
-		titles[] = {};
-	};
-	class bnb_m_song_take_me_home_country_roads_2bnb_loud_vol2 {
-		sound[] = {"x\bnb_m\songs\other\Take_Me_Home_Country_Roads_-_2BNB.ogg", db+12, 1, 500};
-		titles[] = {};
-	};
-};
+//class CfgSounds {
+//	class bnb_m_song_take_me_home_country_roads_2bnb {
+//		sound[] = {"x\bnb_m\songs\other\Take_Me_Home_Country_Roads_-_2BNB.ogg", db+6, 1, 100};
+//		titles[] = {};
+//	};
+//	class bnb_m_song_take_me_home_country_roads_2bnb_vol0 {
+//		sound[] = {"x\bnb_m\songs\other\Take_Me_Home_Country_Roads_-_2BNB.ogg", db+0, 1, 100};
+//		titles[] = {};
+//	};
+//	class bnb_m_song_take_me_home_country_roads_2bnb_vol1 {
+//		sound[] = {"x\bnb_m\songs\other\Take_Me_Home_Country_Roads_-_2BNB.ogg", db+3, 1, 100};
+//		titles[] = {};
+//	};
+//	class bnb_m_song_take_me_home_country_roads_2bnb_vol2 {
+//		sound[] = {"x\bnb_m\songs\other\Take_Me_Home_Country_Roads_-_2BNB.ogg", db+6, 1, 100};
+//		titles[] = {};
+//	};
+//	class bnb_m_song_take_me_home_country_roads_2bnb_loud_vol0 {
+//		sound[] = {"x\bnb_m\songs\other\Take_Me_Home_Country_Roads_-_2BNB.ogg", db+0, 1, 500};
+//		titles[] = {};
+//	};
+//	class bnb_m_song_take_me_home_country_roads_2bnb_loud_vol1 {
+//		sound[] = {"x\bnb_m\songs\other\Take_Me_Home_Country_Roads_-_2BNB.ogg", db+6, 1, 500};
+//		titles[] = {};
+//	};
+//	class bnb_m_song_take_me_home_country_roads_2bnb_loud_vol2 {
+//		sound[] = {"x\bnb_m\songs\other\Take_Me_Home_Country_Roads_-_2BNB.ogg", db+12, 1, 500};
+//		titles[] = {};
+//	};
+//};
 
 // Take On Me
 class CfgMusic {
@@ -2634,6 +2590,138 @@ class CfgSounds {
 	};
 	class bnb_m_song_tigerblood_jewel_loud_vol2 {
 		sound[] = {"x\bnb_m\songs\others\Tigerblood_Jewel_-_Virginia_Highway.ogg", db+12, 1, 500};
+		titles[] = {};
+	};
+};
+
+// Song For Denise
+class CfgMusic {
+	class bnb_m_song_Song_For_Denise {
+		sound[] = {"x\bnb_m\songs\other\Song_For_Denise.ogg", db+3, 1};
+		tag = "klpq_musicRadio_v1";
+		theme = "other";
+		duration = 195;
+		title = "Song For Denise (Wide Putin)";
+		artist = "Piano Fantasia";
+		klpq_ignoreTrack = 0;
+	};
+};
+
+class CfgSounds {
+	class bnb_m_song_tigerblood_jewel {
+		sound[] = {"x\bnb_m\songs\others\Song_For_Denise.ogg", db+6, 1, 100};
+		titles[] = {};
+	};
+	class bnb_m_song_tigerblood_jewel_vol0 {
+		sound[] = {"x\bnb_m\songs\others\Song_For_Denise.ogg", db+0, 1, 100};
+		titles[] = {};
+	};
+	class bnb_m_song_tigerblood_jewel_vol1 {
+		sound[] = {"x\bnb_m\songs\others\Song_For_Denise.ogg", db+3, 1, 100};
+		titles[] = {};
+	};
+	class bnb_m_song_tigerblood_jewel_vol2 {
+		sound[] = {"x\bnb_m\songs\others\Song_For_Denise.ogg", db+6, 1, 100};
+		titles[] = {};
+	};
+	class bnb_m_song_tigerblood_jewel_loud_vol0 {
+		sound[] = {"x\bnb_m\songs\others\Song_For_Denise.ogg", db+0, 1, 500};
+		titles[] = {};
+	};
+	class bnb_m_song_tigerblood_jewel_loud_vol1 {
+		sound[] = {"x\bnb_m\songs\others\Song_For_Denise.ogg", db+6, 1, 500};
+		titles[] = {};
+	};
+	class bnb_m_song_tigerblood_jewel_loud_vol2 {
+		sound[] = {"x\bnb_m\songs\others\Song_For_Denise.ogg", db+12, 1, 500};
+		titles[] = {};
+	};
+};
+
+// The Trooper - Iron Maiden (Remaster)
+class CfgMusic {
+	class bnb_m_song_The_Trooper_Iron_Maiden {
+		sound[] = {"x\bnb_m\songs\other\The_Trooper_Iron_Maiden.ogg", db+3, 1};
+		tag = "klpq_musicRadio_v1";
+		theme = "other";
+		duration = 256;
+		title = "The Trooper";
+		artist = "Iron Maiden";
+		klpq_ignoreTrack = 0;
+	};
+};
+
+class CfgSounds {
+	class bnb_m_song_The_Trooper_Iron_Maiden {
+		sound[] = {"x\bnb_m\songs\other\The_Trooper_Iron_Maiden.ogg", db+6, 1, 100};
+		titles[] = {};
+	};
+	class bnb_m_song_The_Trooper_Iron_Maiden_vol0 {
+		sound[] = {"x\bnb_m\songs\other\The_Trooper_Iron_Maiden.ogg", db+0, 1, 100};
+		titles[] = {};
+	};
+	class bnb_m_song_The_Trooper_Iron_Maiden_vol1 {
+		sound[] = {"x\bnb_m\songs\other\The_Trooper_Iron_Maiden.ogg", db+3, 1, 100};
+		titles[] = {};
+	};
+	class bnb_m_song_The_Trooper_Iron_Maiden_vol2 {
+		sound[] = {"x\bnb_m\songs\other\The_Trooper_Iron_Maiden.ogg", db+6, 1, 100};
+		titles[] = {};
+	};
+	class bnb_m_song_The_Trooper_Iron_Maiden_vol0 {
+		sound[] = {"x\bnb_m\songs\other\The_Trooper_Iron_Maiden.ogg", db+0, 1, 500};
+		titles[] = {};
+	};
+	class bnb_m_song_The_Trooper_Iron_Maiden_vol1 {
+		sound[] = {"x\bnb_m\songs\other\The_Trooper_Iron_Maiden.ogg", db+6, 1, 500};
+		titles[] = {};
+	};
+	class bnb_m_song_The_Trooper_Iron_Maiden_vol2 {
+		sound[] = {"x\bnb_m\songs\other\The_Trooper_Iron_Maiden.ogg", db+12, 1, 500};
+		titles[] = {};
+	};
+};
+
+// Run To The Hills - Iron Maiden (Remaster)
+class CfgMusic {
+	class bnb_m_song_Run_To_The_Hills_Iron_Maiden {
+		sound[] = {"x\bnb_m\songs\other\Run_To_The_Hills_Iron_Maiden.ogg", db+3, 1};
+		tag = "klpq_musicRadio_v1";
+		theme = "other";
+		duration = 240;
+		title = "Run To The Hills";
+		artist = "Iron Maiden";
+		klpq_ignoreTrack = 0;
+	};
+};
+
+class CfgSounds {
+	class bnb_m_song_Run_To_The_Hills_Iron_Maiden {
+		sound[] = {"x\bnb_m\songs\other\Run_To_The_Hills_Iron_Maiden.ogg", db+6, 1, 100};
+		titles[] = {};
+	};
+	class bnb_m_song_Run_To_The_Hills_Iron_Maiden_vol0 {
+		sound[] = {"x\bnb_m\songs\other\Run_To_The_Hills_Iron_Maiden.ogg", db+0, 1, 100};
+		titles[] = {};
+	};
+	class bnb_m_song_Run_To_The_Hills_Iron_Maiden_vol1 {
+		sound[] = {"x\bnb_m\songs\other\Run_To_The_Hills_Iron_Maiden.ogg", db+3, 1, 100};
+		titles[] = {};
+	};
+	class bnb_m_song_Run_To_The_Hills_Iron_Maiden_vol2 {
+		sound[] = {"x\bnb_m\songs\other\Run_To_The_Hills_Iron_Maiden.ogg", db+6, 1, 100};
+		titles[] = {};
+	};
+	class bnb_m_song_Run_To_The_Hills_Iron_Maiden_vol0 {
+		sound[] = {"x\bnb_m\songs\other\Run_To_The_Hills_Iron_Maiden.ogg", db+0, 1, 500};
+		titles[] = {};
+	};
+	class bnb_m_song_Run_To_The_Hills_Iron_Maiden_vol1 {
+		sound[] = {"x\bnb_m\songs\other\Run_To_The_Hills_Iron_Maiden.ogg", db+6, 1, 500};
+		titles[] = {};
+	};
+	class bnb_m_song_Run_To_The_Hills_Iron_Maiden_vol2 {
+		sound[] = {"x\bnb_m\songs\other\Run_To_The_Hills_Iron_Maiden.ogg", db+12, 1, 500};
 		titles[] = {};
 	};
 };
