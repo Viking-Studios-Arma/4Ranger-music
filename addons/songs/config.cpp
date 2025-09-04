@@ -1,7 +1,7 @@
 class CfgPatches {
 	class bnb_m_songs {
 		// Addon identity
-		name = "2BNB Music - Songs";
+		name = "4RANGER Music - Songs";
 		author = "2nd Battalion, Nord Brigade";
 		authors[] = {
 			"Ford",

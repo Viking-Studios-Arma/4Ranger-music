@@ -1,8 +1,8 @@
 <p align="center">
-	<img src="https://github.com/2bnb/2bnb-music/blob/master/2BNB_Music_Github.png" alt="2BNB Banner" />
+	<img src="https://github.com/4ranger/4ranger-music/blob/master/4RANGER_Music_Github.png" alt="4RANGER Banner" />
 	<br />
-	<a href="https://github.com/2bnb/2bnb-extras/wiki/Adding-New-Music">
-		<img src="https://img.shields.io/badge/2BNB_Extras_Wiki-How to Add Music-orange.svg?style=for-the-badge&logo=github" alt="Wiki" />
+	<a href="https://github.com/4ranger/4ranger-extras/wiki/Adding-New-Music">
+		<img src="https://img.shields.io/badge/4RANGER_Extras_Wiki-How to Add Music-orange.svg?style=for-the-badge&logo=github" alt="Wiki" />
 	</a>
 	<a href="https://discord.gg/DRaWNyf">
 		<img src="https://img.shields.io/discord/532683310409842728.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge" alt="Discord Server">
@@ -15,14 +15,14 @@
 	<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2265715499">
 		<img src="https://img.shields.io/steam/size/2265715499?label=Download&logo=steam" alt="Download" />
 	</a>
-	<a href="https://github.com/2bnb/2bnb-music/releases">
-		<img src="https://img.shields.io/github/release/2bnb/2bnb-music.svg?label=Version" alt="Version" />
+	<a href="https://github.com/4ranger/4ranger-music/releases">
+		<img src="https://img.shields.io/github/release/4ranger/4ranger-music.svg?label=Version" alt="Version" />
 	</a>
-	<a href="https://github.com/2bnb/2bnb-music/issues">
-		<img src="http://img.shields.io/github/issues-raw/2bnb/2bnb-music.svg?label=Issues&style=flat" alt="Issues" />
+	<a href="https://github.com/4ranger/4ranger-music/issues">
+		<img src="http://img.shields.io/github/issues-raw/4ranger/4ranger-music.svg?label=Issues&style=flat" alt="Issues" />
 	</a>
-	<a href="https://github.com/2bnb/2bnb-music/blob/master/LICENCE">
-		<img src="https://img.shields.io/github/license/2bnb/2bnb-music.svg?style=flat&label=Licence" alt="License">
+	<a href="https://github.com/4ranger/4ranger-music/blob/master/LICENCE">
+		<img src="https://img.shields.io/github/license/4ranger/4ranger-music.svg?style=flat&label=Licence" alt="License">
 	</a>
 </p>
 <p align="center"><sup><strong>Making Arma 3 a better place for all members of the 2nd Battalion, Nord Brigade.</strong></sup></p>
@@ -54,16 +54,16 @@ If on Windows, use the `tools\make.ps1` file to build the mod for you. It will b
 
 The build script will NOT leave the private key in the `keys` folder. It will delete it instead, to avoid any accidental uploading or distribution.
 
-Be aware, that the names of the `.bisign` and `.bikey` files depend on the latest tag on git. This means that, if you wish to upload a release, it is advised to first tag the latest git commit, and then build the mod. That way you have a nice version, such as `bnb_m_v1.0.3.bikey` rather than `bnb_m_v1.0.3-g0558b0c.bikey`.
+Be aware, that the names of the `.bisign` and `.bikey` files depend on the latest tag on git. This means that, if you wish to upload a release, it is advised to first tag the latest git commit, and then build the mod. That way you have a nice version, such as `vsc_m_v1.0.3.bikey` rather than `vsc_m_v1.0.3-g0558b0c.bikey`.
 
 ## Naming conventions
 To make the names of this mod less likely to run into problems in the future regarding the inclusion of a number in the name:
 - for code: bnb_m
-- for urls: 2bnb-music
-- for presentation: 2BNB Music
+- for urls: 4ranger-music
+- for presentation: 4RANGER Music
 
 ### Prefixes
-The prefix `bnb_m_` should be used where appropriate to avoid any potential name clashes with other mods.
+The prefix `vsc_m_` should be used where appropriate to avoid any potential name clashes with other mods.
 
-## Contact
-For any questions, contact Arend or Ford on the 2nd Battalion, Nord Brigade [Discord](https://discord.gg/DRaWNyf).
+## Credits
+4RANGER Mod Team
