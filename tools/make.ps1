@@ -10,7 +10,7 @@ function Is-DevBranch {
     $branch = git rev-parse --abbrev-ref HEAD
 
     # Detect non-main branches
-    if ($branch -notmatch "main") {
+    if ($branch -notmatch "master") {
         return $true
     }
     return $false
